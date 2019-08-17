@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Beware</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="month_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>Accommodation</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Tuition Fees</item>
+        <item>Books</item>
+        <item>Mobile</item>
+        <item>Shopping</item>
+        <item>Snacks</item>
+        <item>Hangout</item>
+        <item>Tour</item>
+        <item>Others</item>
+    </string-array>
+</resources>
